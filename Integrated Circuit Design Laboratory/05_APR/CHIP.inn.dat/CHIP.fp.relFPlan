@@ -1,0 +1,8 @@
+create_relative_floorplan -ref_type core_boundary -horizontal_edge_separate {1 -112.0 1} -vertical_edge_separate {0 112.0 0} -orient R0 -place SRAM16_0 -ref CHIP
+create_relative_floorplan -ref_type object -horizontal_edge_separate {3 -112.0 1} -vertical_edge_separate {0 0 0} -orient R0 -place SRAM16_2 -ref SRAM16_0
+create_relative_floorplan -ref_type object -horizontal_edge_separate {3 -112.0 1} -vertical_edge_separate {0 0 0} -orient R0 -place SRAM16_4 -ref SRAM16_2
+create_relative_floorplan -ref_type object -horizontal_edge_separate {3 -112.0 1} -vertical_edge_separate {0 0 0} -orient R0 -place SRAM16_6 -ref SRAM16_4
+create_relative_floorplan -ref_type object -horizontal_edge_separate {1 0 1} -vertical_edge_separate {2 112.0 0} -orient R0 -place SRAM16_1 -ref SRAM16_0
+create_relative_floorplan -ref_type object -horizontal_edge_separate {1 0 1} -vertical_edge_separate {2 112.0 0} -orient R0 -place SRAM16_3 -ref SRAM16_2
+create_relative_floorplan -ref_type object -horizontal_edge_separate {1 0 1} -vertical_edge_separate {2 112.0 0} -orient R0 -place SRAM16_5 -ref SRAM16_4
+create_relative_floorplan -ref_type object -horizontal_edge_separate {1 0 1} -vertical_edge_separate {2 112.0 0} -orient R0 -place SRAM16_7 -ref SRAM16_6
