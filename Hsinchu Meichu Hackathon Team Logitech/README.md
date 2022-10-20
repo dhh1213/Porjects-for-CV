@@ -1,5 +1,6 @@
 # Logi education
-#### 2020 Mei-chu Hackathon - 317
+#### 2020 Mei-Chu Hackathon - 317 
+Won the Third Prize in Team Logitech
 ## Introduction
 ### logitype
 * Choose your text file and begin the test, the corresponding key on the keyboard will respectively light up with different color.
