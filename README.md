@@ -1,7 +1,7 @@
-# Porjects-for-CV
+# Porjects for CV
 This repository include several projects I had done in the University.
 
-Projects:
+## Projects:
 * Applied Parallel Programming (UIUC)
 * Integrated Circuit Design Laboratory (NYCU) 
 * Introduction to VLSI Design (NYCU)
