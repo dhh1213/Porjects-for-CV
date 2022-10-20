@@ -6,7 +6,7 @@
 *	Designed an aircraft shooting game with Verilog on the FPGA (Digilent Nexys4 DDR).
 *	Utilized IP catalog of FPGA to input images and display objects, background and UI on screen by VGA output.
 ## Result
-[<img src="https://github.com/dhh1213/Porjects-Record/blob/042aaa68a5f56f0940770f5d97bd3d6033d897b3/Digital%20Laboratory/images/start.jpg" width="600">](https://www.youtube.com/watch?v=L7aoIpFIz1E)
+[<img src="../Digital Laboratory/images/start.jpg" width="600">](https://www.youtube.com/watch?v=L7aoIpFIz1E)
 (<-video link)
 
 TAs have given this project a high score, since most techniques of this project are self-researched.
@@ -19,7 +19,7 @@ TAs have given this project a high score, since most techniques of this project 
   * First stage is equipped with two minions with horizon movement, vertical attack and 50 health points.
   * The second stage is equipped with one boss with randomized movement, two attacking modes and 200 health points.
 * The Gaming Flow Chart:
-<img src="https://github.com/dhh1213/Porjects-Record/blob/767c8690eff176f1b91f60a2d4fb907125473df0/Digital%20Laboratory/images/flow%20chart.jpg" width="600">
+<img src="../Digital Laboratory/images/flow chart.jpg" width="600">
 
 ### Project Principles
 * VGA screen output
@@ -29,7 +29,7 @@ TAs have given this project a high score, since most techniques of this project 
 
 ### Key design blocks
 #### Structure of circuit:
-<img src="https://github.com/dhh1213/Porjects-Record/blob/faa22af5e1c9e84338ad8af56e89c6688dedc98e/Digital%20Laboratory/images/code%20structure.png" width="800">
+<img src="../Digital Laboratory/images/code structure.png" width="800">
 
 * Display
   * Display scaled background, objects, and health points bar.
