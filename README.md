@@ -5,4 +5,4 @@ Projects:
 * Integrated Circuit Design Laboratory (NYCU) 
 * Introduction to VLSI Design (NYCU)
 * Digital Laboratory (NYCU)
-* Hsinchu Meichu Hackathon Team Logic
+* Hsinchu Meichu Hackathon Team Logitech
