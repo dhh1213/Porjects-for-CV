@@ -1,5 +1,5 @@
 # Porjects for CV
-This repository include several projects I had done in the University.
+This repository includes several projects I had done in my years of University.
 
 ## Projects:
 * Applied Parallel Programming (UIUC)
