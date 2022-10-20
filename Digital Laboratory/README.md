@@ -9,7 +9,7 @@
 [<img src="../Digital Laboratory/images/start.jpg" width="600">](https://www.youtube.com/watch?v=L7aoIpFIz1E)
 (<-video link)
 
-TAs have given this project a high score, since most techniques of this project are self-researched.
+TAs have given this project a high score since most techniques of this project are self-researched.
 
 ```Since the video and report both are written in Mandarin, I briefly translate report into English as below.```
 
