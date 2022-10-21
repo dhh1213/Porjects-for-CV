@@ -1,4 +1,4 @@
-# Final Project of Introduction to VLSI Design
+# Introduction to VLSI Design Final Project
 Due to confidential reasons, didn't upload all files to this site.
 
 ## Project Abstract
