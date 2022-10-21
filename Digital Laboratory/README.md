@@ -1,4 +1,4 @@
-# Final Project of Digital Laboratory
+# Digital Laboratory Final Project
 ## Project Requirement
 * Required to use FPGA to develop any topics.
 * Form a group with two people.
