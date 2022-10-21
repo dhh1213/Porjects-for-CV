@@ -1,4 +1,4 @@
-# Final Project for ICLAB
+# ICLAB Final Project
 Due to confidential reasons, didn't upload all files to this site.
 ## Project Description
 In this project, we were going to implement a ToF chip. The goal is to calculate how
