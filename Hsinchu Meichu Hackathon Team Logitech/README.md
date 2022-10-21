@@ -34,4 +34,6 @@ https://github.com/Logitech/logi_craft_sdk/tree/master/samples/CraftPython
 * Following the 2.3-3 step to Enable Windows splitter
 https://github.com/Logitech/logi_craft_sdk/tree/master/samples/CraftPython
 
-
+## Demo videos
+#### 1. [logitype](/Hsinchu%20Meichu%20Hackathon%20Team%20Logitech/demo/LED)
+#### 2. [Windows splitter](/Hsinchu%20Meichu%20Hackathon%20Team%20Logitech/demo/Craft)
