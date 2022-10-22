@@ -1,4 +1,4 @@
-# Porjects Record
+# Porjects Record, Ding-Hsiang Huang
 This repository includes several projects I had done in my years of University.
 
 * [Applied Parallel Programming](/Applied%20Parallel%20Programming)
